@@ -53,3 +53,6 @@ Add Inventory
 Add New Product
 
 <img src="https://github.com/alejuarez/bamazon/blob/master/add%20new%20product%20manager.PNG">
+
+It is added in the database
+<img src="https://github.com/alejuarez/bamazon/blob/master/table%20new%20product%20added%20manager.PNG">
