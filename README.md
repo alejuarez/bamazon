@@ -38,10 +38,11 @@ Not enough merchandise to buy
 Here are some screen shots:
 
 Initial screen
+
 <img src="https://github.com/alejuarez/bamazon/blob/master/initialManager.PNG">
 
 View Inventory
-<img src="https://github.com/alejuarez/bamazon/blob/master/Enter%20an%20invalid%20ID%20in%20customer.PNG">
+<img src="https://github.com/alejuarez/bamazon/blob/master/view%20inventory.PNG">
 
 View Low Inventory
 <img src="https://github.com/alejuarez/bamazon/blob/master/view%20low%20inventory%20manager.PNG">
@@ -50,4 +51,5 @@ Add Inventory
 <img src="https://github.com/alejuarez/bamazon/blob/master/add%20inventory%20manager.PNG">
 
 Add New Product
+
 <img src="https://github.com/alejuarez/bamazon/blob/master/add%20new%20product%20manager.PNG">
