@@ -2,7 +2,7 @@
 
 ### Node.js & MySQL
 
-#### Customer
+## Customer
 
 - Amazon-like storefront app that will take in orders from customers and deplete stock from the store's inventory.
 
@@ -19,12 +19,15 @@
 Here are some screen shots:
 
 Initial Screen
+<img src="https://github.com/alejuarez/bamazon/blob/master/Initialcustomer.PNG">
 
 Enter invalid Id
+<img src="https://github.com/alejuarez/bamazon/blob/master/Enter%20an%20invalid%20ID%20in%20customer.PNG">
 
 Not enough merchandise to buy
+<img src="https://github.com/alejuarez/bamazon/blob/master/not%20enough%20to%20buy%20customer.PNG">
 
-#### Manager
+## Manager
 
 - The Manager has the ability to:
   view the inventory,
@@ -35,11 +38,16 @@ Not enough merchandise to buy
 Here are some screen shots:
 
 Initial screen
+<img src="https://github.com/alejuarez/bamazon/blob/master/initialManager.PNG">
 
 View Inventory
+<img src="https://github.com/alejuarez/bamazon/blob/master/Enter%20an%20invalid%20ID%20in%20customer.PNG">
 
 View Low Inventory
+<img src="https://github.com/alejuarez/bamazon/blob/master/view%20low%20inventory%20manager.PNG">
 
 Add Inventory
+<img src="https://github.com/alejuarez/bamazon/blob/master/add%20inventory%20manager.PNG">
 
 Add New Product
+<img src="https://github.com/alejuarez/bamazon/blob/master/add%20new%20product%20manager.PNG">
