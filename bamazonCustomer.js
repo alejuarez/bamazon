@@ -1,16 +1,13 @@
+//require("dotenv").config();
+
+var config = require("./config.js");
 var mysql = require("mysql");
 var inquirer = require("inquirer");
+console.log(config);
 //var table = require("table");
 
 // create the connection information for the sql database
-var connection = mysql.createConnection({
-  host: "localhost",
-  // port to change
-  port: 8000,
-  user: "root",
-  password: "password",
-  database: "bamazon_db"
-});
+var connection = mysql.createConnection(config);
 
 // connect to the mysql server and sql database
 connection.connect(function(err) {
