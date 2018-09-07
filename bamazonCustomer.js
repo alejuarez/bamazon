@@ -3,7 +3,7 @@
 var config = require("./config.js");
 var mysql = require("mysql");
 var inquirer = require("inquirer");
-console.log(config);
+//console.log(config);
 //var table = require("table");
 
 // create the connection information for the sql database
